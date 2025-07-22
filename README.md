@@ -14,10 +14,14 @@ A stylish web-based digital clock built using **HTML**, **CSS**, and **JavaScrip
 ## 📁 Project Structure
 
 Digital-Clock/
+
 │
 ├── index.html             # Main HTML file
+
 ├── digital-clock.css      # Styling with blurred background and responsive center
+
 ├── digital-clock.js       # JavaScript logic to display real-time clock
+
 └── bg.jpeg                # Background image
 
 ## 🧠 Features
@@ -54,7 +58,9 @@ Alarm or stopwatch functionality
 
 ## 🙋‍♀️ Author
 Thota Priya Harshitha
+
 📍 Final Year B.Tech | Aspiring Software Engineer
+
 💼 LinkedIn Profile: https://www.linkedin.com/in/priya-harshitha-991b87280/
 
 🌟 Show your Support
