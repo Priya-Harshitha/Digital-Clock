@@ -1,0 +1,22 @@
+body{
+    font-family: monospace;
+    background-image: url(bg.jpeg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#clock{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#display{
+ backdrop-filter: blur(05px);
+ font-size: 4em;
+ background-color: hsla(0, 0%, 100%, 0.2);
+ max-width: 100%;
+ min-width: 30%;
+ text-align: center;
+}
